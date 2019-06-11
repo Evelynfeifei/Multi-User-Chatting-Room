@@ -2,6 +2,7 @@
 <h3>Introduction</h3>
 This is a project of the course named Advanced Java Programming.<br>  
 This is an implementation of how to use GUI and the socket to build a group chatting room under concurrency control.
+OOD is used throughout the project development.
 
 <h3>Description</h3>
 <h4>1. Features</h4>
