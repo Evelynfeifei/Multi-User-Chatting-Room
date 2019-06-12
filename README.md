@@ -1,7 +1,7 @@
 # Multi-User-Chatting-Room
 <h3>Introduction</h3>
-This is a project of the course named Advanced Java Programming.<br>  
-This is an implementation of how to use GUI and the socket to build a group chatting room under concurrency control.
+This is a project of my graduate course named Advanced Java Programming.<br>  
+This is an implementation of using GUI and the socket to build a group chatting room under concurrency control.<br>
 OOD is used throughout the project development.
 
 <h3>Description</h3>
